@@ -48,7 +48,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* Ikki du Phénix
+* **Non spécifié**
 
 ## License
 
